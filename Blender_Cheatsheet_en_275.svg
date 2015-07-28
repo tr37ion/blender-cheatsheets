@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="251.54874"
-     inkscape:cy="549.55991"
+     inkscape:cy="662.69699"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -195,7 +195,7 @@
            id="tspan4702"
            y="323.9541"
            x="148.05138"
-           sodipodi:role="line">Shift-Ctrl-S</tspan><tspan
+           sodipodi:role="line">Ctrl-Shift-S+'-/+'</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
            id="tspan4704"
            y="336.4541"
@@ -207,20 +207,25 @@
            x="148.05138"
            sodipodi:role="line">Ctrl-U</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
-           id="tspan4710"
            y="361.4541"
-           x="148.05138"
-           sodipodi:role="line">RIGHT-CLICK</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
-           y="373.9541"
            x="148.05138"
            sodipodi:role="line"
            id="tspan4366">Ctrl-B</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
+           y="373.9541"
+           x="148.05138"
+           sodipodi:role="line"
+           id="tspan4360">F-12</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
            y="386.4541"
            x="148.05138"
            sodipodi:role="line"
-           id="tspan4360">F-12</tspan></text>
+           id="tspan4399">Shift+F-Key</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
+           y="398.9541"
+           x="148.05138"
+           sodipodi:role="line"
+           id="tspan4407">Ctrl+Cursor</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Quintessential;-inkscape-font-specification:Quintessential;letter-spacing:0px;word-spacing:0px;fill:#b50000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -773,11 +778,11 @@
            x="238.16368"
            y="311.4541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455">Save</tspan><tspan
-           id="tspan6837"
            sodipodi:role="line"
            x="238.16368"
            y="323.9541"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455">Save As</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
+           id="tspan4409">Change File Name (Save)</tspan><tspan
            id="tspan6839"
            sodipodi:role="line"
            x="238.16368"
@@ -788,21 +793,26 @@
            x="238.16368"
            y="348.9541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455">Save as Default</tspan><tspan
-           id="tspan6843"
-           sodipodi:role="line"
-           x="238.16368"
-           y="361.4541"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455">Select </tspan><tspan
            id="tspan6845"
            sodipodi:role="line"
            x="238.16368"
-           y="373.9541"
+           y="361.4541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455">Render Area</tspan><tspan
+           sodipodi:role="line"
+           x="238.16368"
+           y="373.9541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
+           id="tspan4362">Render (PC Only)</tspan><tspan
            sodipodi:role="line"
            x="238.16368"
            y="386.4541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
-           id="tspan4362">Render (PC Only)</tspan></text>
+           id="tspan4397">Switch Viewport</tspan><tspan
+           sodipodi:role="line"
+           x="238.16368"
+           y="398.9541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
+           id="tspan4405">Switch Scene Layout</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text6599"
@@ -1267,5 +1277,16 @@
          x="-450.66721"
          id="tspan8383"
          sodipodi:role="line">ENGLISH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Quintessential;-inkscape-font-specification:Quintessential;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="115.2584"
+       y="272.42346"
+       id="text4432"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4434"
+         x="115.2584"
+         y="272.42346"></tspan></text>
   </g>
 </svg>
