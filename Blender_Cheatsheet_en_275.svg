@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.2615428"
      inkscape:cx="356.63514"
-     inkscape:cy="333.86603"
+     inkscape:cy="524.10928"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -544,10 +544,15 @@
            x="423.05588"
            y="461.4541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000">Alt+S</tspan><tspan
-           id="tspan8430"
            sodipodi:role="line"
            x="423.05588"
            y="473.9541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000"
+           id="tspan4385">Alt+D</tspan><tspan
+           id="tspan8430"
+           sodipodi:role="line"
+           x="423.05588"
+           y="486.4541"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#b50000" /></text>
       <text
          sodipodi:linespacing="125%"
@@ -1163,19 +1168,24 @@
            y="461.37561"
            x="520.8147"
            sodipodi:role="line">Scale along Normals</tspan><tspan
-           id="tspan8440"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
            y="473.87561"
            x="520.8147"
-           sodipodi:role="line" /><tspan
-           id="tspan8434"
+           sodipodi:role="line"
+           id="tspan4387">Extend Vertex</tspan><tspan
+           id="tspan8440"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
            y="486.37561"
            x="520.8147"
            sodipodi:role="line" /><tspan
-           id="tspan7873"
+           id="tspan8434"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
            y="498.87561"
+           x="520.8147"
+           sodipodi:role="line" /><tspan
+           id="tspan7873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#004455"
+           y="511.37561"
            x="520.8147"
            sodipodi:role="line" /></text>
       <text
@@ -1335,6 +1345,6 @@
          sodipodi:role="line"
          id="tspan4434"
          x="115.2584"
-         y="272.42346"></tspan></text>
+         y="272.42346" /></text>
   </g>
 </svg>
